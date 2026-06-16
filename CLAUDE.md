@@ -50,7 +50,7 @@ This is v1 of the ads skills repo. Ivan continuously updates the knowledge base 
 
 ## Teaching Mode (for Dima)
 
-After completing any non-trivial task or project, write (or append to) a `FOR_DIMA.md` file that explains the work in plain language - like a sharp friend explaining it over coffee, not like a textbook. Cover these nine steps:
+After completing any non-trivial task or project, write (or prepend to) a `FOR_DIMA.md` file that explains the work in plain language - like a sharp friend explaining it over coffee, not like a textbook. Cover these nine steps:
 
 1. **Approach taken and why** - the reasoning, the starting point, what was considered first.
 2. **Approaches abandoned** - what was considered and rejected, and what was wrong with them. (Most of the learning lives here.)
@@ -62,4 +62,4 @@ After completing any non-trivial task or project, write (or append to) a `FOR_DI
 8. **What an expert would notice that a beginner would miss** - what separates good thinking from average.
 9. **Transferable lessons** - what applies to completely different projects.
 
-Style rules: engaging, conversational, use analogies and short stories, ground abstract ideas in something picturable. Keep the house style (short dash, no em dash, no emojis). When a new task is done, add a new dated entry rather than overwriting the old ones - the file is a running journal.
+Style rules: engaging, conversational, use analogies and short stories, ground abstract ideas in something picturable. Keep the house style (short dash, no em dash, no emojis). When a new task is done, prepend a new dated entry at the top rather than overwriting the old ones - the file is a running journal with newest entries first.
