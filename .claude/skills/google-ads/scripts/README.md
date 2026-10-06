@@ -18,6 +18,7 @@ Python scripts for the Google Ads API using the official `google-ads` library.
 | `get_campaign_performance.py` | Detailed campaign metrics with daily breakdown |
 | `get_keyword_performance.py` | Keyword-level performance with Quality Score |
 | `search_terms_report.py` | Search terms analysis and wasted spend finder |
+| `conversion_time_report.py` | Weekly Brand vs Non-Brand CSV: cost per campaign, conversions per action by conversion time and click time |
 | `update_campaign.py` | Update campaign status, budget, or name |
 
 ## Setup

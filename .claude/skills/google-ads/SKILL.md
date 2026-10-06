@@ -41,6 +41,7 @@ All scripts live in `scripts/`. Run from that directory.
 | **List campaigns** | `python list_campaigns.py --status ENABLED` |
 | **Search terms audit** | `python search_terms_report.py --no-conversions --min-clicks 3` |
 | **Keyword performance** | `python get_keyword_performance.py --top 30` |
+| **Brand vs Non-Brand (weekly, by conv. time)** | `python conversion_time_report.py --weeks 12` |
 | **Create campaign** | `python create_campaign.py --name "Brand - Search" --type SEARCH --budget 50` |
 | **Update campaign** | `python update_campaign.py --campaign-id <id> --status ENABLED --budget 75` |
 | **Create ad group** | `python create_ad_group.py --campaign-id <id> --name "High Intent KWs"` |
